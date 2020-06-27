@@ -24,6 +24,8 @@ const http      = require('http');
 const hostname  = 'localhost';
 const port      = 3035;
 
+let jsonData = require('./data.js');
+
 /** 
  * Start the Node Server Here...
  * 
@@ -35,8 +37,20 @@ const port      = 3035;
 http.createServer(function (req, res) {
     // .. Here you can create your data response in a JSON format
     
+    res.setHeader('Access-Control-Allow-Origin', 'http://localhost:3030');
+
+    // Request methods you wish to allow
+    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
+
+    // Request headers you wish to allow
+    res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With,content-type');
+
+    // Set to true if you need the website to include cookies in the requests sent
+    // to the API (e.g. in case you use sessions)
+    res.setHeader('Access-Control-Allow-Credentials', true);
     
-    res.write("Response goes in here..."); // Write out the default response
+    //console.log(jsonData);
+    res.write(JSON.stringify(jsonData)  ); // Write out the default response
     res.end(); //end the response
 }).listen( port );
 

@@ -2,3 +2,95 @@
 
 
 [26/6/2020 -- 0:3]  Info task started
+[26/6/2020 -- 0:31]  restarted!
+[26/6/2020 -- 0:31]  restarted!
+[26/6/2020 -- 0:31]  Scripts ran on main.js
+[26/6/2020 -- 0:32]  restarted!
+[26/6/2020 -- 0:33]  restarted!
+[26/6/2020 -- 0:33]  restarted!
+[26/6/2020 -- 0:34]  restarted!
+[26/6/2020 -- 0:34]  restarted!
+[26/6/2020 -- 0:34]  restarted!
+[26/6/2020 -- 0:34]  restarted!
+[26/6/2020 -- 0:34]  restarted!
+[26/6/2020 -- 0:34]  restarted!
+[26/6/2020 -- 0:35]  restarted!
+[26/6/2020 -- 0:36]  restarted!
+[26/6/2020 -- 0:37]  restarted!
+[26/6/2020 -- 0:37]  restarted!
+[26/6/2020 -- 0:37]  restarted!
+[26/6/2020 -- 0:38]  restarted!
+[26/6/2020 -- 0:38]  restarted!
+[26/6/2020 -- 0:38]  restarted!
+[26/6/2020 -- 0:38]  restarted!
+[26/6/2020 -- 0:38]  restarted!
+[26/6/2020 -- 0:39]  restarted!
+[26/6/2020 -- 0:39]  restarted!
+[26/6/2020 -- 0:40]  restarted!
+[26/6/2020 -- 0:40]  restarted!
+[26/6/2020 -- 0:42]  restarted!
+[26/6/2020 -- 0:42]  restarted!
+[26/6/2020 -- 0:44]  Scripts ran on main.js
+[26/6/2020 -- 0:47]  Scripts ran on main.js
+[26/6/2020 -- 0:48]  Scripts ran on main.js
+[26/6/2020 -- 0:48]  Scripts ran on main.js
+[26/6/2020 -- 0:49]  Scripts ran on main.js
+[26/6/2020 -- 0:49]  Scripts ran on main.js
+[26/6/2020 -- 0:50]  Scripts ran on main.js
+[26/6/2020 -- 0:52]  Scripts ran on main.js
+[26/6/2020 -- 0:55]  Scripts ran on main.js
+[26/6/2020 -- 0:56]  Scripts ran on main.js
+[26/6/2020 -- 0:56]  Scripts ran on main.js
+[26/6/2020 -- 0:56]  Scripts ran on main.js
+[26/6/2020 -- 0:58]  Scripts ran on main.js
+[26/6/2020 -- 1:1]  Scripts ran on main.js
+[26/6/2020 -- 1:1]  Scripts ran on main.js
+[26/6/2020 -- 1:3]  Scripts ran on main.js
+[26/6/2020 -- 1:6]  restarted!
+[26/6/2020 -- 1:7]  restarted!
+[26/6/2020 -- 1:8]  Scripts ran on main.js
+[26/6/2020 -- 1:8]  Scripts ran on main.js
+[26/6/2020 -- 1:9]  Scripts ran on main.js
+[26/6/2020 -- 1:9]  Scripts ran on main.js
+[26/6/2020 -- 1:12]  Scripts ran on main.js
+[26/6/2020 -- 1:15]  Scripts ran on main.js
+[26/6/2020 -- 1:15]  Scripts ran on main.js
+[26/6/2020 -- 1:15]  Scripts ran on main.js
+[26/6/2020 -- 1:16]  Scripts ran on main.js
+[26/6/2020 -- 1:17]  Scripts ran on main.js
+[26/6/2020 -- 1:17]  Scripts ran on main.js
+[26/6/2020 -- 1:17]  Scripts ran on main.js
+[26/6/2020 -- 1:18]  Scripts ran on main.js
+[26/6/2020 -- 1:20]  Scripts ran on main.js
+[26/6/2020 -- 1:21]  Scripts ran on main.js
+[26/6/2020 -- 1:21]  Scripts ran on main.js
+[26/6/2020 -- 1:22]  Scripts ran on main.js
+[26/6/2020 -- 1:23]  Scripts ran on main.js
+[26/6/2020 -- 1:25]  Scripts ran on main.js
+[26/6/2020 -- 1:25]  Scripts ran on main.js
+[26/6/2020 -- 1:25]  Scripts ran on main.js
+[26/6/2020 -- 1:26]  Scripts ran on main.js
+[26/6/2020 -- 1:26]  Scripts ran on main.js
+[26/6/2020 -- 1:27]  Scripts ran on main.js
+[26/6/2020 -- 1:27]  Scripts ran on main.js
+[26/6/2020 -- 1:27]  Scripts ran on main.js
+[26/6/2020 -- 1:28]  Scripts ran on main.js
+[26/6/2020 -- 1:28]  Scripts ran on main.js
+[26/6/2020 -- 1:29]  Scripts ran on main.js
+[26/6/2020 -- 1:29]  Scripts ran on main.js
+[26/6/2020 -- 1:32]  Scripts ran on main.js
+[26/6/2020 -- 1:32]  Scripts ran on main.js
+[26/6/2020 -- 22:33]  Info task started
+[27/6/2020 -- 23:24]  Scripts ran on main.js
+[27/6/2020 -- 23:25]  Scripts ran on main.js
+[27/6/2020 -- 23:25]  Scripts ran on main.js
+[27/6/2020 -- 23:26]  Scripts ran on main.js
+[27/6/2020 -- 23:27]  Scripts ran on main.js
+[27/6/2020 -- 23:27]  Scripts ran on main.js
+[27/6/2020 -- 23:28]  Scripts ran on main.js
+[27/6/2020 -- 23:28]  Scripts ran on main.js
+[27/6/2020 -- 23:36]  Scripts ran on main.js
+[27/6/2020 -- 23:36]  Scripts ran on main.js
+[27/6/2020 -- 23:37]  Scripts ran on main.js
+[27/6/2020 -- 23:37]  Scripts ran on main.js
+[27/6/2020 -- 23:38]  Scripts ran on main.js
