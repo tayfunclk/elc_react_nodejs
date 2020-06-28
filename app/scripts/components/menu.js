@@ -41,6 +41,7 @@ class Menu extends React.Component {
                 console.log("fetch error" + err);
             });
 
+        this.allProduct = this.allProduct.bind(this);
     }
 
     /**
@@ -77,6 +78,43 @@ class Menu extends React.Component {
 
     }
 
+    filteredProduct() {
+        return this.state.filteredList.map(data => {
+            return (
+                <div class="col-sm-4 py-2">
+                    <div class="card h-100 border-primary">
+                        <img class="card-img-top" src={data.picture} style={{ maxHeight: '25px', maxWidth: '18px' }} />
+
+                        <div class="card-body">
+                            <h3 class="card-title">{data.name}</h3>
+                            <p class="card-text">{data._id}</p>
+                            <a href="#" class="btn btn-outline-secondary">Buy</a>
+                        </div>
+                    </div>
+                </div>
+            )
+        });
+    }
+
+    allProduct() {
+        return this.state.allList.map(data => {
+            return (
+                <div class="col-sm-4 py-2">
+                    <div class="card h-100 border-primary">
+                        <img class="card-img-top" src={data.picture} style={{ maxHeight: '25px', maxWidth: '18px' }} />
+
+                        <div class="card-body">
+                            <h3 class="card-title">{data.name}</h3>
+                            <p class="card-text">{data._id}</p>
+                            <a href="#" class="btn btn-outline-secondary">Buy</a>
+                        </div>
+                    </div>
+                </div>
+            )
+        });
+    }
+
+
     /**
      * Renders the default app in the window, we have assigned this to an element called root.
      * 
@@ -110,17 +148,27 @@ class Menu extends React.Component {
                     <a href="#" onClick={(e) => this.showSearchContainer(e)}>
                         <i className="material-icons close">close</i>
                     </a>
-                    <ul>filtered</ul>
 
 
-                    {this.state.filteredList.map(item => (<li>{item._id}-{item.name}</li>))}
-                    <ul>aa</ul>
+                    <div class="container">
+                        <h5>---Filtered Product-------</h5>
+                        <div class="row">
+                            {this.filteredProduct()}
+                        </div>
+                        {this.state.filteredList && this.state.filteredList.length == 0 && (
+                            <h5>---Not Searched any Product----</h5>
+                        )}
+                    </div>
 
-                    {this.state.allList.map(item => (<li>{item._id}-{item.name}</li>))}
-
+                    <div class="container">
+                        <h5>--All Product---</h5>
+                        <div class="row">
+                            {this.allProduct()}
+                        </div>
+                    </div>
 
                 </div>
-            </header>
+            </header >
         );
     }
 

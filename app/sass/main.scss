@@ -8,7 +8,7 @@ $siteWidth: 1280px;
 // Imports
 @import '_menu.scss';
 @import '_home.scss';
-
+@import "../node_modules/bootstrap/scss/bootstrap";
 
 html, html * {
     box-sizing: border-box; padding: 0; margin: 0;
